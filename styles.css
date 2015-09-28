@@ -1,0 +1,16 @@
+.fruit {
+  display: inline;
+  background-color: lightgreen;
+  margin: 0 10px 10px 0px;
+}
+
+.fruit-basket {
+  margin-bottom: 10px;
+}
+
+.trash-bin {
+  display: block;
+  background-color: gray;
+  width: 200px;
+  height: 100px;
+}
